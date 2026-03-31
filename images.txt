@@ -1,1 +1,1 @@
-tailscale
+emqx:5.9.0
